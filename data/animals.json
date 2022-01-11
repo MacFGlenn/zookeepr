@@ -126,6 +126,13 @@
         "anxious"
       ],
       "id": "12"
+    },
+    {
+      "name": "ugh",
+      "species": "duh",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "13"
     }
   ]
 }
